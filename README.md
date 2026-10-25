@@ -1,4 +1,4 @@
-# Faraday — instaladores e atualizações
+# Faraday (AI) — instaladores e atualizações
 
 Aqui ficam só os arquivos de cada versão do Faraday (assistente de reuniões e ditado para Windows).
 
